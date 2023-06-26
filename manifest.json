@@ -1,0 +1,13 @@
+{
+  "name": "Snyk-Cloud-Demo",
+  "push": [
+    {
+      "custom_rules_id": "a8b2f27c-029f-41d7-a21c-6d4c5bb8e424",
+      "organization_id": "53f85e6a-a19b-4827-9765-bc83bc7db120"
+    },
+    {
+      "custom_rules_id": "0a3650e5-161e-4bdc-9d11-81f210deac6e",
+      "organization_id": "9ac0912a-afcd-4e21-ba57-3d898721ac22"
+    }
+  ]
+}
